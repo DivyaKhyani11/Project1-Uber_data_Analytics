@@ -1,5 +1,7 @@
 Project1-Uber_data_Analytics
+
 Analyzing raw Uber data - new york city
+
 Data Preparation for Analysis
 1. which month has maximum uber pickups in NY city ?
 2.  Calculating total trips for each month & each weekday
